@@ -65,9 +65,11 @@ Welcome to **AI-Researcher**🤗 AI-Researcher introduces a revolutionary breakt
 
 ## 🔥 News
 
+- [x] 🚀🔥 [2025. 09] 🎯🎯📢📢 Exciting News! We are thrilled to announce that our 🌟AI-Researcher🌟 has been accepted as a **Spotlight Paper** at NeurIPS 2025! 🎉🎉 Thanks to all the team members 🤗
+
 <div class="scrollable">
     <ul>
-      <li><strong>[2025, May 24]</strong>: &nbsp;🎉🎉 <b>Major Release! AI-Researcher Comprehensive Upgrade!</b> 🚀
+      <li><strong>[2025. 05]</strong>: &nbsp;🎉🎉 <b>Major Release! AI-Researcher Comprehensive Upgrade!</b> 🚀
         <br>We are excited to announce a significant milestone for AI-Researcher:
         <ul>
           <li>📄 <b><a href="https://arxiv.org/abs/2505.18705">Academic Paper Release</a></b>: Detailed exposition of our innovative methods and experimental results</li>
